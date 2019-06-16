@@ -1,7 +1,7 @@
 #Mencetak Menu
 import math
 def menu():
-    print("Pilih Bentuk 2D")
+    print(""\033[1;91mpilih Bentuk 2D")
     print
     print("1. Persegi Panjang")
     print("2. Lingkaran")
@@ -127,7 +127,7 @@ def pythagoras():
         pytagoras()
 
 #Program Menghitung Luas
-print("      _")
+print(""\033[1;92m      _")
 print(" _ __(_)_   _  __ _ _ __")
 print("| `__| | | | |/ _` | `_ \ ")
 print("| |  | | |_| | (_| | | | |")
